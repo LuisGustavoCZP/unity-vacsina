@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1ec0042f1f375498e95f464e6ad525, type: 3}
+  m_Name: Wait For Register
+  m_EditorClassIdentifier: 
+  states:
+  - {fileID: 11400000, guid: d0c161b241bb55248a7bd4655676e37d, type: 2}
+  priority: 3
+  remove: 1

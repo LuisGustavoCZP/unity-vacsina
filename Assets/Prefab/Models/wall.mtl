@@ -1,0 +1,5 @@
+newmtl largeBrick
+map_Kd -o 0 0 -s 1 1 largeBrick.tga
+Kd 1 1 1
+d 1
+

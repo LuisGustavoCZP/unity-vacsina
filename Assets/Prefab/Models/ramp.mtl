@@ -1,0 +1,5 @@
+newmtl tiles
+map_Kd -o 0 0 -s 2 2 tiles.tif
+Kd 1 1 1
+d 1
+

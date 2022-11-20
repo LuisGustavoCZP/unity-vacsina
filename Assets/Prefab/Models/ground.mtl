@@ -1,0 +1,10 @@
+newmtl tiles
+map_Kd -o 0 0 -s 2 2 tiles.tif
+Kd 1 1 1
+d 1
+
+newmtl largeBrick
+map_Kd -o 0 0 -s 1 1 largeBrick.tga
+Kd 1 1 1
+d 1
+
