@@ -10169,6 +10169,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9107446371413437696, guid: cd9ad75515ced394c8c1878b5d570d8d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9124382369867716389, guid: cd9ad75515ced394c8c1878b5d570d8d,
         type: 3}
       propertyPath: m_IsActive
@@ -10769,6 +10774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Reception Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046337427961603862, guid: b4550a60f73c52f40b663ba2392d8eb3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5046337427961603863, guid: b4550a60f73c52f40b663ba2392d8eb3,
         type: 3}
